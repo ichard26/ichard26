@@ -14,7 +14,7 @@ I'm mostly a Python developer although I have ventured a little bit into JS/TS a
 of the tooling (just look above) or language dev nature (I have this unreasonable persisent desire to write parsers).
 When I'm not doing development work, I like to take photographs, go for walks .. or both at the same time 📷
 
-**Fun fact:** I'm staff on the Python Discord server so feel free to chat with me on there!
+**Fun fact:** I'm staff on the [Python Discord server](https://discord.gg/python) so feel free to chat with me on there!
 
 Anyhow, have a wonderful day!
 
