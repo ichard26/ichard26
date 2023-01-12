@@ -1,21 +1,21 @@
-### Heya you've found a flower lover!
+### Hey, nice to see you!
 
-Hello, I'm Richard aka "ichard26", "daylily richard", "daylily", "richard ✿" or various other (probably
-flower related) names as I switch it up way too much 🙂 Pronouns are he/they.
+Hello! I’m Richard. I go by `ichard26` on the internet. My pronouns are he/they.
 
-You might know me if you frequent the Python formatter/linter space as I co-maintain the incredibly popular
-[psf/black](https://github.com/psf/black) project. I also co-maintain [pypa/bandersnatch](https://github.com/pypa/bandersnatch).
-My main area of focus is usually maintainance and devops work so developer experience, CI, issue triage, and
-PR review are my main duties -- although I'm a documentation nerd as well. Personal projects including
-[diff-shades](https://github.com/ichard26/diff-shades), [next-pr-number](https://github.com/ichard26/next-pr-number),
-and [blackbench](https://github.com/ichard26/blackbench) are unsurprisingly for the aforementioned projects!
+> **Side-note:** I do like flowers, so my username/nick may be flower related from time to time.
 
-I'm mostly a Python developer although I have ventured a little bit into JS/TS and C. My projects are typically
-of the tooling (just look above) or language dev nature (I have this unreasonable persisent desire to write parsers).
-When I'm not doing development work, I like to take photographs, go for walks .. or both at the same time 📷
+You may know me if you frequent the Python code quality space as I co-maintain your friendly code formatter, [Black]!
+I also co-maintain [bandersnatch]. As maintainer, I like to focus on maintenance, documentation, and PR review. On top
+of that, I’m also staff on the [Python Discord server][pydis].
 
-**Fun fact:** I'm staff on the [Python Discord server](https://discord.gg/python) so feel free to chat with me on there!
+I’m a hobby Python developer and OSS contributor, but I dabble in C and front-end web development from time to time.
+Project-wise, tooling and language dev projects are my favourite. When I’m not doing development work, I like to take
+photographs, go for walks .. or both at the same time! 📷
 
-Anyhow, have a wonderful day!
+Anyway, I hope that you're having a good day :)
 
 [![ichard26's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichard26&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[bandersnatch]: https://github.com/pypa/bandersnatch
+[black]: https://github.com/psf/black
+[pydis]: https://discord.gg/python
