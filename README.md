@@ -2,11 +2,9 @@
 
 Hello! I’m Richard. I go by `ichard26` on the internet. My pronouns are he/they.
 
-> **Side-note:** I do like flowers, so my username/nick may be flower related from time to time.
-
-You may know me if you frequent the Python code quality space as I co-maintain your friendly code formatter, [Black]!
-I also co-maintain [bandersnatch]. As maintainer, I like to focus on maintenance, documentation, and PR review. On top
-of that, I’m also staff on the [Python Discord server][pydis].
+You may know me if you frequent the Python code quality space as I used to co-maintain your friendly code formatter,
+[Black]! I also (kinda) co-maintained [bandersnatch]. Currently, I'm on the [mypyc] core team and I’m also staff on
+the [Python Discord server][pydis].
 
 I’m a hobby Python developer and OSS contributor, but I dabble in C and front-end web development from time to time.
 Project-wise, tooling and language dev projects are my favourite. When I’m not doing development work, I like to take
@@ -18,4 +16,5 @@ Anyway, I hope that you're having a good day :)
 
 [bandersnatch]: https://github.com/pypa/bandersnatch
 [black]: https://github.com/psf/black
+[mypyc]: https://mypyc.readthedocs.io/
 [pydis]: https://discord.gg/python
