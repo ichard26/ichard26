@@ -17,7 +17,9 @@ I like to take photographs, go for walks .. or both at the same time! 📷
 
 Anyhow, I hope that you're having a good day :)
 
+<!--
 [![ichard26's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichard26&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [bandersnatch]: https://github.com/pypa/bandersnatch
 [black]: https://github.com/psf/black
