@@ -2,7 +2,8 @@
 
 Hello! I’m Richard. I go by `ichard26` on the internet. My pronouns are he/they.
 
-I’m a hobby Python developer and OSS contributor. Over the years, I've contributed to several projects:
+I’m a hobby Python developer and OSS contributor. Over the years, I've served on the core team
+for several projects:
 
 - **[pip]**: the Python package installer 
 - **[mypyc]**: a Python-to-C transcompiler for typed code, built on top of mypy
