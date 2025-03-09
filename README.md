@@ -1,6 +1,6 @@
 ### Hey, nice to see you!
 
-Hello! I’m Richard. I go by `ichard26` on the internet. My pronouns are he/they.
+Hello! I’m Richard. I go by `ichard26` on the internet.
 
 I’m a hobby Python developer and OSS contributor. Over the years, I've served on the core team
 for several projects:
@@ -9,8 +9,6 @@ for several projects:
 - **[mypyc]**: a Python-to-C transcompiler for typed code, built on top of mypy
 - **[black]**: your friendly code formatter for Python, known for its _uncomprising_ code style
 - **[bandersnatch]**: a simple mirror tool to generate a PEP 503 compliant index
-
-I also serve as a moderator of the [Python Discord][pydis] community.
 
 From time to time, I dabble in C and front-end web development. When I’m not doing development work,
 I like to take photographs, go for walks .. or both at the same time! 📷
