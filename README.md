@@ -7,7 +7,7 @@ for several projects:
 
 - **[pip]**: the Python package installer 
 - **[mypyc]**: a Python-to-C transcompiler for typed code, built on top of mypy
-- **[black]**: your friendly code formatter for Python, known for its _uncomprising_ code style
+- **[black]**: your friendly code formatter for Python, known for its _uncompromising_ code style
 - **[bandersnatch]**: a simple mirror tool to generate a PEP 503 compliant index
 
 From time to time, I dabble in C and front-end web development. When I’m not doing development work,
